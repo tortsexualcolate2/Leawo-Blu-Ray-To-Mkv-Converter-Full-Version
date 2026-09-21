@@ -241,4 +241,4 @@ This repository serves as the official landing page for Leawo Blu-ray to MKV Con
 **Get the most recent version of Leawo Blu-ray to MKV Converter today!**
 
 ---
-**Last updated:** 2026-09-20 22:56:36 UTC
+**Last updated:** 2026-09-21 00:52:36 UTC
